@@ -1,0 +1,16 @@
+1*Si ma intunec*Istoric*Chartoltte Bronte
+84*Un veac de singuratate*Romance*Wilkie Collins
+90*Si ma intunec*Romance*Wilkie Collins
+74*Anna Karenina*Fantasy*Kiersten White
+58*Mandrie si prejudecata*SF*Chartoltte Bronte
+62*Stapanul inelelor*Romance*Lev Tolstoi
+49*Jane Eyre*SF*Gabriel Garcia Marquez
+94*Stapanul inelelor*Istoric*Kiersten White
+45*Jane Eyre*SF*Lev Tolstoi
+60*Femeia in alb*Actiune*J.R.R. Tolkien
+70*Stapanul inelelor*Istoric*J.R.R. Tolkien
+42*Jane Eyre*Romance*Wilkie Collins
+19*Jane Eyre*Romance*Wilkie Collins
+64*Casa de langa lac*Istoric*Kiersten White
+12*Casa de langa lac*Fantasy*Jane Austen
+28*Si ma intunec*Actiune*Gabriel Garcia Marquez
